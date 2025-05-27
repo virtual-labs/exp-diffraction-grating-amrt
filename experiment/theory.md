@@ -40,4 +40,4 @@ Where $\delta$ is the total phase angle , it can be related to the deviation ang
 
 $$\delta=\frac{2\pi a*\sin \theta}{\lambda}..........(4)$$
 
-
+$I_0$  is the maximum intensity $\lambda$ is the wavelength of the light and $a$ is the slit width.
