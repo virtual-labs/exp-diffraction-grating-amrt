@@ -41,3 +41,26 @@ Where $\delta$ is the total phase angle , it can be related to the deviation ang
 $$\delta=\frac{2\pi a*\sin \theta}{\lambda}..........(4)$$
 
 $I_0$  is the maximum intensity $\lambda$ is the wavelength of the light and $a$ is the slit width.
+
+Diffraction grating is an optical component having a periodic structure which can split and diffract light t several beams travelling in different directions. This  depends on the spacing of the grating and the wavelength of the incident light.
+
+At normal incidence,
+
+$$\sin \theta=Nn\lambda..............(5)$$
+
+where, <br>
+N is the number of lines per unit length of the grating <br>
+n is the order of the spectrum <br>
+$\lambda$  is the wavelength of light.<br>
+$\theta$ is the diffraction angle.<br>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center;">
+<div style="max-width: 400px;">
+<img src="./images/figure3.jpg" alt="Figure 1" style="width: 100%; height: auto;">
+<p style="font-size: smaller; font-style: italic;"></p>
+</div>
+<div style="max-width: 400px;">
+<img src="./images/figure4.jpg" alt="Figure 2" style="width: 100%; height: auto;">
+<p style="font-size: smaller; font-style: italic;"></p>
+</div>
+</div>
