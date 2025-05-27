@@ -1,1 +1,1 @@
-## Experiment name
+## Diffraction Grating
