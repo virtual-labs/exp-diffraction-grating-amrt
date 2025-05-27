@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Diffraction arises as a result of?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Superposition of primary wave fronts from coherent sources",
+        "b": "Superposition of primary wave fronts from incoherent sources",
+        "c": "Superposition of secondary wave fronts from the slits",
+        "d": "Interference of light"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is a diffraction pattern?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A pattern of intensity variation consisting of equal-width maxima and minima",
+        "b": "A pattern of intensity variation consisting of unequal -width maxima and minima",
+        "c": "A uniform intensity illumination",
+        "d": "A pattern of zigzag variation"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " point source produces__________",
+      "answers": {
+        "a": "Cylindrical wavefront",
+        "b": "Spherical wavefront",
+        "c": "Plane wavefront",
+        "d": "None of these"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
