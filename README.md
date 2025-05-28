@@ -1,18 +1,18 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Physical Science
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Optics Virtual Lab
+<b> Experiment|     <b> Diffraction Grating
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+This experiment involves diffraction of light waves though a very small slit (aperture), and demonstrate that when light passes through the slit, the physical size of the slit determines how the slit interacts with the light.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
 <b> Email id|     <b>  
 <b> Department |  
 
@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Mr. Saneesh P F | . | . | Amrita Vishwa Vidyapeetham | .
 2 | . | . | . | . | .
