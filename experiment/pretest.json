@@ -24,6 +24,42 @@
      
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "Diffraction arises as a result of?",
+      "answers": {
+        "a": "Superposition of primary wave fronts from coherent sources",
+        "b": "Superposition of primary wave fronts from incoherent sources",
+        "c": "Superposition of secondary wave fronts from the slits",
+        "d": "Interference of light"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is a diffraction pattern?",
+      "answers": {
+        "a": "A pattern of intensity variation consisting of equal-width maxima and minima",
+        "b": "A pattern of intensity variation consisting of unequal -width maxima and minima",
+        "c": "A uniform intensity illumination",
+        "d": "A pattern of zigzag variation"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " point source produces__________",
+      "answers": {
+        "a": "Cylindrical wavefront",
+        "b": "Spherical wavefront",
+        "c": "Plane wavefront",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
